@@ -6,7 +6,7 @@ This is a very simple filter driver. And here are the steps to run it.
 
 ### What you will need:
 - OSRLoader (Download it [here](https://www.osronline.com/article.cfm%5Earticle=157.htm))
-- DbgView (Download it [here](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview)
+- DbgView (Download it [here](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview))
 - Visual Studio 2019 (Download it [here](https://visualstudio.microsoft.com/ru/vs/))
 - Do all steps from [here](https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk) to install WDK
 - Two hands
